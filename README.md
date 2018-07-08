@@ -2,7 +2,7 @@
 
 This Sample project is created in C++ Using QT Framework (Just for Practicing & Learning QT)
 
-# ScreenShots
+## ScreenShots
 
 <p align="center">
   <img src="https://github.com/yehiahd/Note-App/blob/master/screenshots/1.png" width="300"/>
