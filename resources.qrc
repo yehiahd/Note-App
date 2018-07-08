@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Icons/Icons/Copy.bmp</file>
+        <file>Icons/Icons/Cut.bmp</file>
+        <file>Icons/Icons/DeleteSticky.bmp</file>
+        <file>Icons/Icons/exit.png</file>
+        <file>Icons/Icons/Highlight.bmp</file>
+        <file>Icons/Icons/New.bmp</file>
+        <file>Icons/Icons/Open.bmp</file>
+        <file>Icons/Icons/Paste.bmp</file>
+        <file>Icons/Icons/print.png</file>
+        <file>Icons/Icons/redo.png</file>
+        <file>Icons/Icons/Save.bmp</file>
+        <file>Icons/Icons/undo.png</file>
+    </qresource>
+</RCC>
