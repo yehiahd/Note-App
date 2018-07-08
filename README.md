@@ -5,7 +5,7 @@ This Sample project is created in C++ Using QT Framework (Just for Practicing & 
 # ScreenShots
 
 <p align="center">
-  <img src="" width="200"/>
+  <img src="https://github.com/yehiahd/Note-App/blob/master/screenshots/1.png" width="200"/>
 </p>
 
 ### App Functions for Notes :
