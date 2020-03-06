@@ -8,7 +8,7 @@ This Sample project is created in C++ Using QT Framework (Just for Practicing & 
   <img src="https://github.com/yehiahd/Note-App/blob/master/screenshots/1.png" width="300"/>
 </p>
 
-### App Functions for Notes :
+### Demo Functions:
 
 New <br />
 Open <br />
