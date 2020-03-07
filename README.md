@@ -20,8 +20,7 @@ Undo/Redo <br />
 Exit <br />
 
 
-### Contact
+### Contact Info
 - [Twitter](https://twitter.com/YehiaHd)
 - [Facebook](https://www.facebook.com/yehia.hd)
 - [LinkedIn](https://www.linkedin.com/in/yehiahd/)
-
